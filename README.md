@@ -1,6 +1,6 @@
 # RingPrint
 
-[![Release](https://img.shields.io/badge/download-latest%20release-blue)](https://github.com/ELPEDR/RingPrint/releases/tag/public)
+[![Release](https://img.shields.io/badge/download-latest%20release-blue)](https://github.com/ELPEDR/RingPrint/releases)
 
 **Replace the fingerprint icon on the One UI lock screen and AOD with a minimal HyperOS-style ring, or with your own icon.**
 
